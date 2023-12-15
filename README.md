@@ -54,6 +54,3 @@ This repository contains the code for a personal portfolio website designed and 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-_Note: Replace the placeholder paths in the "Screenshots" section with the actual paths to your project overview and layout screenshots._
