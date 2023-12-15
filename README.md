@@ -17,7 +17,6 @@ This repository contains the code for a personal portfolio website designed and 
     <td><img src="images/sample/sideBar.png" alt="SideBar Mobile Section"></td>
   </tr>
 </table>
-![About Mobile Section](images/sample/about-mob-sxn.png)
 ## Features
 
 1. **Responsive Design:** The website is designed to be responsive, ensuring a consistent user experience on various devices, including desktops, tablets, and mobile phones.
