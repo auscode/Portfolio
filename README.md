@@ -6,12 +6,13 @@ This repository contains the code for a personal portfolio website designed and 
 
 ## Screenshots
 
+![Portfolio Section](images/sample/portfolio.png)
 ![Hero Section](images/sample/hero-sxn.png)
 ![About Section](images/sample/about-sxn.png)
 ![Services Section](images/sample/services-sxn.png)
 ![Work Section](images/sample/work-sxn.png)
 ![Contact Section](images/sample/contact-sxn.png)
-![Hero Mobile Section](images/sample/hero-mob-sxn.png)
+![Hero Mobile Section](images/sample/.png)
 ![About Mobile Section](images/sample/about-mob-sxn.png)
 
 ## Features
