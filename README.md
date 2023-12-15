@@ -6,13 +6,12 @@ This repository contains the code for a personal portfolio website designed and 
 
 ## Screenshots
 
-*Project Overview: Placeholder for project overview screenshot*
-
-![Project Overview](path/to/project_overview_screenshot.png)
-
-*Layout: Placeholder for layout screenshot*
-
-![Layout](path/to/layout_screenshot.png)
+![Hero Section](images/sample/hero-sxn.png)
+![About Section](images/sample/about-sxn.png)
+![Services Section](images/sample/services-sxn.png)
+![Work Section](images/sample/work-sxn.png)
+![Contact Section](images/sample/contact-sxn.png)
+![Hero Mobile Section](images/sample/hero-mob-sxn.png)
 
 ## Features
 
@@ -34,9 +33,9 @@ This repository contains the code for a personal portfolio website designed and 
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/username/repo.git
-    ```
+   ```bash
+   git clone https://github.com/username/repo.git
+   ```
 
 2. Open the `index.html` file in a web browser.
 
@@ -57,4 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Note: Replace the placeholder paths in the "Screenshots" section with the actual paths to your project overview and layout screenshots.*
+_Note: Replace the placeholder paths in the "Screenshots" section with the actual paths to your project overview and layout screenshots._
