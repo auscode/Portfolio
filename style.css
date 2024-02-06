@@ -318,6 +318,11 @@ nav ul li a:hover::after{
 .contact-right form {
     width: 100%;
 }
+.email,.phone {
+    text-decoration: none;
+    color:#ffffff;
+}
+
 form input, form textarea {
     width: 100%;
     border: 0;
