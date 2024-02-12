@@ -364,13 +364,17 @@ nav .fas{
 @media only screen and (max-width: 600px) {
     #header {
         background-image: url(images/img3.png);
+        background-size: cover;
+        height:fit-content;
+        background-position: center bottom;
     }
     .header-text{
-        margin-top: 100%;
+        margin-top: 30%;
         font-size: 16px;
     }
     .header-text h1{
         font-size: 30px;
+        margin-bottom: 50%;
     }
     nav .fas {
         display: block;
@@ -420,7 +424,6 @@ nav .fas{
         font-size: 14px;
     }
 }
-
 
 #msg{
     color: #61b752;
